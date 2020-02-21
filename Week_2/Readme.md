@@ -11,6 +11,7 @@
 3. Data manipulation
 
 ### [Computing On Data](Computing_On_Data.md)
+1. Matrix multiplication, transpose and inverse
 
 ### [Plotting Data](Plotting_Data.md)
 1. Sine function
