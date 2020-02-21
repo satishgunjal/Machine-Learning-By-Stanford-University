@@ -46,7 +46,7 @@
     >> plot(t,y1); % to plot sin function where 'time' on X axis and y1 on Y axis
     >>
     ```
-   <img src="Week_2/plots/sine function.gif" width="500">
+   <img src="plots/sine function.gif" width="500">
    
 2. Plot two functions on top of each other
 
@@ -66,4 +66,4 @@
     >> close % to close the plot
     >>
     ```
-    <img src="Week_2/plots/sine_cosine_plot.png" width="500">
+    <img src="plots/sine_cosine_plot.png" width="500">
