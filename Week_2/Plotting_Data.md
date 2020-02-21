@@ -64,6 +64,9 @@
     >> title('sine cosine plot');
     >> print -dpng 'sine_cosine_plot.png' % save file in png format
     >> close % to close the plot
+    >> % to plot both the function in separate windows
+    >> figure(1); plot(t,y1);
+    >> figure(2); plot(t,y2);
     >>
     ```
     <img src="plots/sine_cosine_plot.png" width="500">
