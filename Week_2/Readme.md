@@ -4,3 +4,8 @@
 2. Logical operations    
 3. Octave variables
 4. Vector and matrices
+
+### [Moving Data Around](Week_2/Moving_Data_Around.md)
+1. Get matrix size, length & path change
+2. Load and save data    
+3. Data manipulation
