@@ -70,3 +70,25 @@
     >>
     ```
     <img src="plots/sine_cosine_plot.png" width="500">
+    
+3. Plots in two different windows
+
+    ```
+    >> figure(1); plot(t,y1);
+    >> figure(2); plot(t,y2);
+    >>
+    ```
+    <img src="plots/plots in two diff windows.PNG" width="500">
+    
+4. Subplot
+
+    ```
+    >> subplot(1,2,1) % devides plot in 1x2 grid and access the first element
+    >> plot(t, y1); % plot first function in first element
+    >> subplot(1,2,2) % devides plot in 1x2 grid and access the second element
+    >> plot(t, y2) % plot cosine function in second element
+    >> print -dpng 'subplot.png' % save file in png format
+    >>
+    >>
+    ```
+    <img src="plots/subplot.png" width="500">
