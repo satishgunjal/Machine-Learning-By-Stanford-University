@@ -48,7 +48,7 @@
     ```
    <img src="Week_2/plots/sine function.gif" width="500">
    
-   2. Plot two functions on top of each other
+2. Plot two functions on top of each other
 
     ```
     >> y1 = sin(2*pi*4*t); % note ';' here, used it avoide printing the values of y1
@@ -66,4 +66,4 @@
     >> close % to close the plot
     >>
     ```
-   <img src="Week_2/plots/sine_cosine_plot.png" width="500">
+    <img src="Week_2/plots/sine_cosine_plot.png" width="500">
