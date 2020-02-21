@@ -11,3 +11,8 @@
 3. Data manipulation
 
 ### [Computing On Data](Week_2/Computing_On_Data.md)
+
+### [Plotting Data](Week_2/Plotting_Data.md)
+1. Sine function
+2. Plot two functions on top of each other    
+3. Plots in two different windows
