@@ -9,3 +9,5 @@
 1. Get matrix size, length & path change
 2. Load and save data    
 3. Data manipulation
+
+### [Computing On Data](Week_2/Computing_On_Data.md)
