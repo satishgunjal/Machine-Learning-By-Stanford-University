@@ -59,4 +59,4 @@
     v = Ax;
     
    Answer is 'v = A * x'. To solve this create and 10x10 matrix (A) using magic command on Octave. Also create 10x1 column vector x.
-   Now run above 'for loop' and note the result. Now run all the option commands and comapre the result with 'for loop' for correct answer.
+   Now run above 'for loop' and note the result. Now run all the option commands and comapre the result with 'for loop' for correct    answer.
