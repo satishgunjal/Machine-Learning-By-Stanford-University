@@ -18,7 +18,7 @@
 2. Plot two functions on top of each other    
 3. Plots in two different windows
 
-### [Control Statements: for, while, if statements](Control_Statements_for_while_if_statement.md.md)
+### [Control Statements: for, while, if statements](Control_Statements_for_while_if_statement.md)
 1. for loop
 2. while loop
 3. if else
