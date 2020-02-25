@@ -135,6 +135,7 @@
     ```
     
  4. More sophisticated example of function
+ 
     <img src="images/Page-1.jpg" width="500">
     <img src="images/Page-2.jpg" width="500">
     <img src="images/Page-3.jpg" width="500">
