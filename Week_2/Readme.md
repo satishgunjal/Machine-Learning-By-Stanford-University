@@ -27,3 +27,10 @@
 
 ### [Vectorization](Vectorization.md)
 1. Quiz answer and explanation
+
+### [Graded Quiz](Octave_Matlab_Tutorial_Graded_Quiz.md)
+1. Question 1
+2. Question 2
+3. Question 3
+4. Question 4
+5. Question 5
