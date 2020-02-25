@@ -134,4 +134,9 @@
     
     ```
     
+ 4. More sophisticated example of function
+    [Page-1](images/Page-1.jpg)
+    [Page-2](images/Page-2.jpg)
+    [Page-3](images/Page-3.jpg)
+    
     
