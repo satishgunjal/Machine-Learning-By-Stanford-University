@@ -23,6 +23,7 @@
 2. while loop
 3. if else
 4. functions
+5. More sophisticated example of function
 
 ### [Vectorization](Vectorization.md)
 1. Quiz answer and explanation
