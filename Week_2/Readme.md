@@ -17,3 +17,12 @@
 1. Sine function
 2. Plot two functions on top of each other    
 3. Plots in two different windows
+
+### [Control Statements: for, while, if statements](Control_Statements_for_while_if_statement.md.md)
+1. for loop
+2. while loop
+3. if else
+4. functions
+
+### [Vectorization](Vectorization.md)
+1. Quiz answer and explanation
