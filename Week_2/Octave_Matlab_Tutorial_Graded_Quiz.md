@@ -12,5 +12,5 @@
     C = A' * B;
     C = B + A;
     
-    Answer is 'C = A * B' and 'C = B' + A'. to test it create the A and B matrices in Octave and test all above commands to verify the results
+   Answer is 'C = A * B' and 'C = B' + A'. to test it create the A and B matrices in Octave and test all above commands to verify the results
 
