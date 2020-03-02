@@ -35,5 +35,5 @@
 4. Question 4
 5. Question 5
 
-### [Programming Assignment: Linear Regression](Programming_Assignment_Linear_Regression.md)
+### [Programming Assignment: Linear Regression](machine-learning-ex1)
 I have solved all the questions mentioned in 'ex1.pdf'. Please follow the 'ex1.pdf' it will guide you though all the steps. In all the '.m' files I have added few extra comments for better understanding.
