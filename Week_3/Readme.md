@@ -22,4 +22,4 @@ A:
 
 ### Cost function
 <img src="images/Cost Function-Logistic regression model- In Video Question.png" width="500">
-<img src="images/Cost Function-Logistic regression model- In Video Question1.png" width="500">
+<img src="images/Cost Function-Logistic regression model- In Video Question 1.png" width="500">
