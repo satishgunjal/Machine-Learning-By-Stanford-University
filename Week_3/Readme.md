@@ -23,3 +23,6 @@ A:
 ### Cost function
 <img src="images/Cost Function-Logistic regression model- In Video Question.png" width="500">
 <img src="images/Cost Function-Logistic regression model- In Video Question_1.png" width="500">
+
+### Simplified Cost function and gradient discent
+<img src="images/Simplified Cost Function and Gradient Discent- In Video Question.png" width="500">
