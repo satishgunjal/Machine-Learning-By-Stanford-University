@@ -31,3 +31,8 @@ A:
 
 ### Advanced optimization
 <img src="images/Advanced Optimization- In Video Question.png" width="500">
+
+## Multiclass Classification
+
+## Multiclass classification: one vs all 
+<img src="images/Multiclass Classification-one vs all- In Video Question.png" width="500">
