@@ -12,3 +12,4 @@ A:
 - Hence if probability that it is 1 is 70%, then the probability that it is 0 is 30%. Right answer is :> P(y=0|x;θ)=0.3
 
 ### Decision boundary: Logistic regression
+<img src="images/Decision Boundary In Video Question.png" width="500">
