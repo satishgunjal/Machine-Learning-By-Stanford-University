@@ -1,5 +1,7 @@
 # Week 3: Cloassification and representaion
 
+### Classification
+<img src="images/Classification In Video Question.png" width="500">
 
 ### Hypothesis representation: Logistic regression
 Q: Suppose we want to predict, from data x about a tumor, whether it is malignant (y=1) or benign (y=0). Our logistic regression classifier outputs, for a specific tumor, hθ(x)=P(y=1|x;θ)=0.7, so we estimate that there is a 70% chance of this tumor being malignant. What should be our estimate for P(y=0|x;θ), the probability the tumor is benign?
