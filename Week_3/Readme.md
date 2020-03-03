@@ -1,4 +1,4 @@
-# Week 3: Cloassification and representaion
+# Week 3
 
 ## Cloassification and representaion
 
