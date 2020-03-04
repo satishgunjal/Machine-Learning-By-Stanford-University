@@ -36,3 +36,7 @@ A:
 
 ## Multiclass classification: one vs all 
 <img src="images/Multiclass Classification-one vs all- In Video Question.png" width="500">
+
+## Logistic Regression : Graded Quiz
+<img src="images/Logistic Regression- Graded Quiz.png" width="500">
+
