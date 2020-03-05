@@ -40,3 +40,9 @@ A:
 ## Logistic Regression : Graded Quiz
 <img src="images/Logistic Regression- Graded Quiz.png" width="500">
 
+## Solving the problem of overfitting
+
+## Regularization : Graded Quiz
+<img src="images/Regularization- Graded Quiz.png" width="500">
+
+
