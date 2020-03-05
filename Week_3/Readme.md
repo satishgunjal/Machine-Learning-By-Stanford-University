@@ -34,7 +34,7 @@ A:
 
 ## Multiclass Classification
 
-## Multiclass classification: one vs all 
+# Multiclass classification: one vs all 
 <img src="images/Multiclass Classification-one vs all- In Video Question.png" width="500">
 
 ## Logistic Regression : Graded Quiz
@@ -43,6 +43,6 @@ A:
 ## Solving the problem of overfitting
 
 ## Regularization : Graded Quiz
-<img src="images/Regularization- Graded Quiz.png" width="500">
+<img src="images/Regularization- Graded-Quiz.png" width="500">
 
 
