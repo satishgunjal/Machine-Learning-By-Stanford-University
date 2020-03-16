@@ -54,6 +54,9 @@ A:
 <img src="images/Cost function-In video question.png" width="500">
 Please refer week 3 -> Solving the problem of over fitting -> cost function -> Video at 8 minute
 
+### Regularized Linear Regression-In video question-In video question
+<img src="images/Regularized Linear Regression-In video question.png" width="500">
+
 ## Regularization : Graded Quiz
 <img src="images/Regularization- Graded-Quiz.png" width="500">
 
