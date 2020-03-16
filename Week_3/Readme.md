@@ -52,6 +52,7 @@ A:
 
 ### Cost function-In video question
 <img src="images/Cost function-In video question.png" width="500">
+Please refer week 3 -> Solving the problem of over fitting -> cost function -> Video at 8 minute
 
 ## Regularization : Graded Quiz
 <img src="images/Regularization- Graded-Quiz.png" width="500">
