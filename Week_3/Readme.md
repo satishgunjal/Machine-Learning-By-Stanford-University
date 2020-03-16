@@ -63,4 +63,8 @@ Please refer week 3 -> Solving the problem of over fitting -> cost function -> V
 ## Regularization : Graded Quiz
 <img src="images/Regularization- Graded-Quiz.png" width="500">
 
+### [Programming Assignment: Logistic Regression](machine-learning-ex2)
+I have solved all the questions mentioned in 'ex2.pdf'. Please follow the 'ex2.pdf' it will guide you though all the steps. In all the '.m' files I have added few extra comments for better understanding.
+
+
 
