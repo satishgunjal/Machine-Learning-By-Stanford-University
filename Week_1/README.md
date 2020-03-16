@@ -10,3 +10,6 @@
 
 ### Unsupervised Learning-In Video Question
 <img src="images/Unsupervised Learning-In Video Question.png" width="500">
+
+### Introduction-Graded Quiz
+<img src="images/Introduction-Graded Quiz.png" width="500">
