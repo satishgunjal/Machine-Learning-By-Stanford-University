@@ -47,6 +47,9 @@ A:
 
 ## Solving the problem of overfitting
 
+### The problem of overfitting-In video question
+<img src="images/The problem of overfitting-In video question.png" width="500">
+
 ## Regularization : Graded Quiz
 <img src="images/Regularization- Graded-Quiz.png" width="500">
 
