@@ -28,8 +28,10 @@ A:
 <img src="images/Cost Function-Logistic regression model- In Video Question_1.png" width="700">
 
 ### Simplified Cost function and gradient discent
+#### Question#1
 <img src="images/Simplified Cost Function and Gradient Discent- In Video Question.png" width="500">
 
+#### Question#2
 <img src="images/Simplified Cost Function and Gradient Discent- In Video Question_1.png" width="500">
 
 ### Advanced optimization
