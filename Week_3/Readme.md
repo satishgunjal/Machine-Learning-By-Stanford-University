@@ -50,6 +50,9 @@ A:
 ### The problem of overfitting-In video question
 <img src="images/The problem of overfitting-In video question.PNG" width="500">
 
+### Cost function-In video question
+<img src="images/Cost function-In video question.png" width="500">
+
 ## Regularization : Graded Quiz
 <img src="images/Regularization- Graded-Quiz.png" width="500">
 
