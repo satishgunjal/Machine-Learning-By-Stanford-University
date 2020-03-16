@@ -1,1 +1,4 @@
-dfvf
+- I have solved all the questions mentioned in 'ex2.pdf'
+- Please follow the 'ex2.pdf' it will guide you though all the steps. 
+- In all the '.m' files I have added few extra comments for better understanding.
+- To test it download the entire 'machine-learning-ex2' and 'CD' to its path from Octave. And then follow 'ex2.pdf'.
