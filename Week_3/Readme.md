@@ -57,6 +57,9 @@ Please refer week 3 -> Solving the problem of over fitting -> cost function -> V
 ### Regularized Linear Regression-In video question-In video question
 <img src="images/Regularized Linear Regression-In video question.png" width="500">
 
+### Regularized Logistic Regression-In video question
+<img src="images/Regularized Logistic Regression-In video question.png" width="500">
+
 ## Regularization : Graded Quiz
 <img src="images/Regularization- Graded-Quiz.png" width="500">
 
