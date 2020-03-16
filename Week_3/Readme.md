@@ -35,7 +35,7 @@ A:
 <img src="images/Simplified Cost Function and Gradient Discent- In Video Question_1.png" width="500">
 
 ### Advanced optimization
-<img src="images/Advanced Optimization- In Video Question.png" width="500">
+<img src="images/Advanced Optimization- In Video Question.png" width="700">
 
 ## Multiclass Classification
 
