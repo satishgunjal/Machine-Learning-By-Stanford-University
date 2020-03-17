@@ -24,3 +24,8 @@
 
 ### Cost Function Intuation I -In Video Question
 <img src="images/Cost Function Intuation I -In Video Question.png" width="500">
+
+## Parameter Learning
+
+### Gradient Discent-In Video Question
+<img src="images/Gradient Discent-In Video Question.png" width="500">
