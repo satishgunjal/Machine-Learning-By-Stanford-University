@@ -32,3 +32,6 @@
 
 ### Gradient Discent Intuition-In Video Question
 <img src="images/Gradient Discent Intuition-In Video Question.png" width="500">
+
+### Gradient Descent For Linear Regression-In Video Question
+<img src="images/Gradient Descent For Linear Regression-In Video Question.png" width="500">
