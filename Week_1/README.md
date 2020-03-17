@@ -21,3 +21,6 @@
 
 ### Cost Function-In Video Question
 <img src="images/Cost Function-In Video Question.png" width="500">
+
+### Cost Function Intuation I -In Video Question
+<img src="images/Cost Function Intuation I -In Video Question.png" width="500">
