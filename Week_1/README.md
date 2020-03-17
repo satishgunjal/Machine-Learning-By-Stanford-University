@@ -12,4 +12,9 @@
 <img src="images/Unsupervised Learning-In Video Question.png" width="500">
 
 ### Introduction-Graded Quiz
-<img src="images/Introduction-Graded Quiz.png" width="500">
+<img src="images/Introduction-Graded Quiz.png" width="700">
+
+## Model and Cost Function
+
+### Model Representation-In Video Question
+<img src="images/Model Representation-In Video Question.png" width="500">
