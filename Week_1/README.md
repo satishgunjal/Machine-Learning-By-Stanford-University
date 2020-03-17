@@ -29,3 +29,6 @@
 
 ### Gradient Discent-In Video Question
 <img src="images/Gradient Discent-In Video Question.png" width="500">
+
+### Gradient Discent Intuition-In Video Question
+<img src="images/Gradient Discent Intuition-In Video Question.png" width="500">
