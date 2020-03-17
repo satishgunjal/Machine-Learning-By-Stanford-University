@@ -17,5 +17,7 @@
 ## Model and Cost Function
 
 ### Model Representation-In Video Question
-
 <img src="images/Model Representation-In Video Question.png" width="500">
+
+### Cost Function-In Video Question
+<img src="images/Cost Function-In Video Question.png" width="500">
