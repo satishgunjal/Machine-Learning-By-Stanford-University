@@ -52,3 +52,4 @@
 ### Addition and Scalar Multiplication-In Video Question
 <img src="images/Addition and Scalar Multiplication-In Video Question.png" width="500">
 <img src="images/Addition and Scalar Multiplication 1-In Video Question.png" width="500">
+<img src="images/Addition and Scalar Multiplication 2-In Video Question.png" width="500">
