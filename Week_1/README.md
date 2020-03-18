@@ -40,3 +40,8 @@
 
 ### Linear Regression with One Variable- Graded Quiz
 <img src="images/Linear Regression with One Variable- Graded Quiz.png" width="1000">
+
+## Linear Algebra Review
+
+### Linear Algebra Review-In Video Question
+<img src="images/Linear Algebra Review-In Video Question.png" width="500">
