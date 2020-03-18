@@ -35,3 +35,8 @@
 
 ### Gradient Descent For Linear Regression-In Video Question
 <img src="images/Gradient Descent For Linear Regression-In Video Question.png" width="500">
+
+## Review
+
+### Linear Regression with One Variable- Graded Quiz
+<img src="images/Linear Regression with One Variable- Graded Quiz.png" width="500">
