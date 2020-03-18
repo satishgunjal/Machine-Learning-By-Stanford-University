@@ -39,4 +39,4 @@
 ## Review
 
 ### Linear Regression with One Variable- Graded Quiz
-<img src="images/Linear Regression with One Variable- Graded Quiz.png" width="700">
+<img src="images/Linear Regression with One Variable- Graded Quiz.png" width="1000">
