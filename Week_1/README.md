@@ -43,8 +43,11 @@
 
 ## Linear Algebra Review
 
-### Matrices nd Vectors-In Video Question-In Video Question
+### Matrices and Vectors-In Video Question-In Video Question
 <img src="images/Linear Algebra Review-In Video Question.png" width="500">
 
-### Matrices nd Vectors-In Video Question-In Video Question
+### Matrices and Vectors-In Video Question-In Video Question
 <img src="images/Matrices nd Vectors-In Video Question.png" width="500">
+
+### Addition and Scalar Multiplication-In Video Question
+<img src="images/Addition and Scalar Multiplication-In Video Question.png" width="500">
