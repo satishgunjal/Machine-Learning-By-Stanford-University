@@ -16,6 +16,9 @@
 ### Gradient Descent for Multiple Variables -In Video Question
 <img src="images/Gradient Descent for Multiple Variables-In Video Question.png" width="500">
 
+### Gradient Descent in Practice I - Feature Scaling-In Video Question -In Video Question
+<img src="images/Gradient Descent in Practice I - Feature Scaling-In Video Question.png" width="500">
+
 ## Octave / Matlab Tutorial:
 ### [Basic Operations](Basic_Operations.md)
 1. Elementary math operqations.
