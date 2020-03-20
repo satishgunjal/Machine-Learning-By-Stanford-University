@@ -71,4 +71,4 @@
 <img src="images/Inverse and Transpose-In Video Question.png" width="500">
 
 ## Linear Algebra - Practice Quiz
-<img src="images/Linear Algebra - Practice Quiz.png" width="500">
+<img src="images/Linear Algebra - Practice Quiz.png" width="700">
