@@ -57,3 +57,6 @@
 ### Matrix Vector Multiplication-In Video Question
 <img src="images/Matrix Vector Multiplication-In Video Question.png" width="500">
 <img src="images/Matrix Vector Multiplication 1-In Video Question.png" width="500">
+
+### Matrix Matrix Multiplication-In Video Question
+<img src="images/Matrix Matrix Multiplication-In Video Question.png" width="500">
