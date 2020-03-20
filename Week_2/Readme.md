@@ -1,3 +1,18 @@
+# Week 2
+
+## Environment Setup Instructions:
+- [Setting Up Your Programming Assignment Environment](https://www.coursera.org/learn/machine-learning/supplement/ks2m0/setting-up-your-programming-assignment-environment)
+- [Access MATLAB Online](https://www.coursera.org/learn/machine-learning/supplement/rANSM/access-the-matlab-online-trial-and-the-exercise-files-for-matlab-users)
+- [Installing Octave on Windows](https://www.coursera.org/learn/machine-learning/supplement/p9ckf/installing-octave-on-windows)
+- [Installing Octave on Mac OS X (10.10 Yosemite and 10.9 Mavericks)](https://www.coursera.org/learn/machine-learning/supplement/ykU6M/installing-octave-on-mac-os-x-10-10-yosemite-and-10-9-mavericks-and-later)
+- [Installing Octave on Mac OS X (10.8 Mountain Lion and Earlier)](https://www.coursera.org/learn/machine-learning/supplement/M16Qr/installing-octave-on-mac-os-x-10-8-mountain-lion-and-earlier)
+- [Installing Octave on GNU/Linux](https://www.coursera.org/learn/machine-learning/supplement/NSG5j/installing-octave-on-gnu-linux)
+- [More Octave/MATLAB resources](https://www.coursera.org/learn/machine-learning/supplement/Mlf3e/more-octave-matlab-resources)
+
+## Multivariate Linear Regression
+### Multiple Features-In Video Question
+<img src="images/Multiple Features-In Video Question.png" width="500">
+
 ## Octave / Matlab Tutorial:
 ### [Basic Operations](Basic_Operations.md)
 1. Elementary math operqations.
