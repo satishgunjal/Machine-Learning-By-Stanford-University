@@ -60,3 +60,4 @@
 
 ### Matrix Matrix Multiplication-In Video Question
 <img src="images/Matrix Matrix Multiplication-In Video Question.png" width="500">
+<img src="images/Matrix Matrix Multiplication 1-In Video Question.png" width="500">
