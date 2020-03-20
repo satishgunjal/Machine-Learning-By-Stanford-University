@@ -14,4 +14,21 @@ I am trying to answer and explain every quiz question asked in Machine Learning 
 
 ## [Week: 2](Week_2)
 
+- Octave/Matlab Tutorial
+- Review
+
+## [Week: 3](Week_3)
+
+- Cloassification and representaion
+- Logistic regression model
+- Multiclass Classification
+- Review
+- Solving the problem of overfitting
+- Review
+
+
+
+
+
+
                  
