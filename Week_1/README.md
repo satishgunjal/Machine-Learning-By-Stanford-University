@@ -62,3 +62,4 @@
 <img src="images/Matrix Matrix Multiplication-In Video Question.png" width="500">
 <img src="images/Matrix Matrix Multiplication 1-In Video Question.png" width="500">
 <img src="images/Matrix Matrix Multiplication 2-In Video Question.png" width="500">
+<img src="images/Matrix Matrix Multiplication 3-In Video Question.png" width="500">
