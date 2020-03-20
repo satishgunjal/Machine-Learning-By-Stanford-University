@@ -66,3 +66,6 @@
 
 ### Matrix Multiplication Properties-In Video Question
 <img src="images/Matrix Multiplication Properties-In Video Question.png" width="500">
+
+### Inverse and Transpose-In Video Question
+<img src="images/Inverse and Transpose-In Video Question.png" width="500">
