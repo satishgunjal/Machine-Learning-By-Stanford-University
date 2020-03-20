@@ -22,6 +22,9 @@
 ### Gradient Descent in Practice II - Learning Rate-In Video Question
 <img src="images/Gradient Descent in Practice II - Learning Rate-In Video Question.png" width="500">
 
+### Features and Polynomial Regression-In Video Question
+<img src="images/Features and Polynomial Regression-In Video Question.png" width="500">
+
 ## Octave / Matlab Tutorial:
 ### [Basic Operations](Basic_Operations.md)
 1. Elementary math operqations.
