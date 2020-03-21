@@ -29,6 +29,10 @@
 ### Normal Equation-In Video Question
 <img src="images/Normal Equation-In Video Question.png" width="500">
 
+## Review 
+### Linear Regression with Multiple Variables- Graded Quiz
+<img src="images/Linear Regression with Multiple Variables- Graded Quiz.png" width="500">
+
 ## Octave / Matlab Tutorial:
 ### [Basic Operations](Basic_Operations.md)
 1. Elementary math operqations.
