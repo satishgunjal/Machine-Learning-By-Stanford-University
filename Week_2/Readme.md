@@ -25,6 +25,10 @@
 ### Features and Polynomial Regression-In Video Question
 <img src="images/Features and Polynomial Regression-In Video Question.png" width="500">
 
+## Computing Parameters Analytically 
+### Normal Equation-In Video Question
+<img src="images/Normal Equation-In Video Question.png" width="500">
+
 ## Octave / Matlab Tutorial:
 ### [Basic Operations](Basic_Operations.md)
 1. Elementary math operqations.
