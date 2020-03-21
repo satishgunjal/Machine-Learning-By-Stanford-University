@@ -13,6 +13,13 @@ I am trying to answer and explain every quiz question asked in Machine Learning 
 
 
 ## [Week: 2](Week_2)
+- Environment Setup Instructions
+- Multivariate Linear Regression
+- Computing Parameters Analytically 
+
+## Review 
+### Linear Regression with Multiple Variables- Graded Quiz
+<img src="images/Linear Regression with Multiple Variables- Graded Quiz.png" width="500">
 
 - Octave/Matlab Tutorial
 - Review
