@@ -14,3 +14,7 @@
 
 ### Model Representation II-In Video Question
 <img src="images/Model Representation II-In Video Question.png" width="500">
+
+## Applications
+### Examples and Intuitions I-In Video Question
+<img src="images/Examples and Intuitions I-In Video Question.png" width="500">
