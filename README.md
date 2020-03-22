@@ -2,7 +2,7 @@
 # Machine-Learning-By-Stanford-University
 I am trying to answer and explain every quiz question asked in Machine Learning course. I will also add important Octave commands used in this course. This course is available on online learning site Coursera.
 
-## [Week: 1](Week_1)
+## [Week_1: ML Basics & Linear Regression With One Variable](Week_1)
 
 - Introduction
 - Model and Cost Function
@@ -12,7 +12,7 @@ I am trying to answer and explain every quiz question asked in Machine Learning 
 - Linear Algebra - Practice Quiz
 
 
-## [Week: 2](Week_2)
+## [Week_2: Linear Regression With Multiple Variables](Week_2)
 - Environment Setup Instructions
 - Multivariate Linear Regression
 - Computing Parameters Analytically 
@@ -20,7 +20,7 @@ I am trying to answer and explain every quiz question asked in Machine Learning 
 - Octave/Matlab Tutorial
 - Review
 
-## [Week: 3](Week_3)
+## [Week_3: Logistic Regression & Regularization](Week_3)
 
 - Cloassification and representaion
 - Logistic regression model
@@ -29,7 +29,7 @@ I am trying to answer and explain every quiz question asked in Machine Learning 
 - Solving the problem of overfitting
 - Review
 
-## [Weel: 4 - Neural Networks](Week_4)
+## [Weel_4: Neural Networks](Week_4)
 
 
 
