@@ -11,3 +11,6 @@
 ## Neural Networks
 ### Model Representation I-In Video Question
 <img src="images/Model Representation I-In Video Question.png" width="500">
+
+### Model Representation II-In Video Question
+<img src="images/Model Representation II-In Video Question.png" width="500">
