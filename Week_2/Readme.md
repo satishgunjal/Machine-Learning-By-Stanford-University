@@ -1,4 +1,6 @@
-# Week 2
+# Week 2 - Linear Regression With Multiple Variables
+- This week we’re covering linear regression with multiple variables. we’ll show how linear regression can be extended to accommodate     multiple input features. We also discuss best practices for implementing linear regression.
+- We’re also going to go over how to use Octave. You’ll work on programming assignments designed to help you understand how to implement   the learning algorithms in practice. To complete the programming assignments, you will need to use Octave or MATLAB.
 
 ## Environment Setup Instructions:
 - [Setting Up Your Programming Assignment Environment](https://www.coursera.org/learn/machine-learning/supplement/ks2m0/setting-up-your-programming-assignment-environment)
