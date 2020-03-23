@@ -21,3 +21,6 @@
 
 ### Examples and Intuitions II-In Video Question
 <img src="images/Examples and Intuitions II-In Video Question.png" width="500">
+
+### Multiclass Classification-In Video Question
+<img src="images/Multiclass Classification-In Video Question.png" width="500">
