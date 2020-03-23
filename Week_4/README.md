@@ -24,3 +24,7 @@
 
 ### Multiclass Classification-In Video Question
 <img src="images/Multiclass Classification-In Video Question.png" width="500">
+
+## Review
+### Neural Networks Representation-Graded Quiz
+<img src="images/Neural Networks Representation-Graded Quiz.png" width="500">
