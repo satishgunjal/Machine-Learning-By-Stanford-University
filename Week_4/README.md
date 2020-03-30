@@ -28,3 +28,8 @@
 ## Review
 ### Neural Networks Representation-Graded Quiz
 <img src="images/Neural Networks Representation-Graded Quiz.png" width="500">
+
+## [Programming Assignment: Multi-class Classification and Neural Networks](machine-learning-ex3)
+- I have solved all the questions mentioned in 'ex3.pdf'. 
+- Please follow the 'ex3.pdf' it will guide you though all the steps. 
+- In all the '.m' files I have added few extra comments for better understanding.
