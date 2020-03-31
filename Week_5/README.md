@@ -25,3 +25,6 @@
 
 For detailed explaination please refer [Coursera Discussion Thread](https://www.coursera.org/learn/machine-learning/discussions/weeks/5/threads/C5imQ6cEEeaeFgp1HJGIrg)
 
+### Putting It Together-In Video Question
+<img src="images/Putting It Together-In Video Question.png" width="500">
+
