@@ -9,3 +9,6 @@
 
 ### Backpropagation Algorithm-In Video Question
 <img src="images/Backpropagation Algorithm-In Video Question.png" width="500">
+
+### Backpropagation Intuitions-In Video Question
+<img src="images/Backpropagation Intuitions-In Video Question.png" width="500">
