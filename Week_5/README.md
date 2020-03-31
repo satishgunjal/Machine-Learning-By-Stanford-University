@@ -12,3 +12,11 @@
 
 ### Backpropagation Intuitions-In Video Question
 <img src="images/Backpropagation Intuitions-In Video Question.png" width="500">
+
+### Implementation Note- Unrolling Parameters-In Video Question
+<img src="images/Implementation Note- Unrolling Parameters-In Video Question.png" width="500">
+
+### Gradient Checking-In Video Question
+<img src="images/Gradient Checking-In Video Question.png" width="500">
+<img src="images/Gradient Checking 1-In Video Question.png" width="500">
+
