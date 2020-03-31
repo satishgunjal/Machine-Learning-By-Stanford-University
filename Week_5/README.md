@@ -22,5 +22,6 @@
 
 ### Random Initialization-In Video Question
 <img src="images/Random Initialization-In Video Question.png" width="500">
+
 For detailed explaination pleas refer [LINK](https://www.coursera.org/learn/machine-learning/discussions/weeks/5/threads/C5imQ6cEEeaeFgp1HJGIrg)
 
