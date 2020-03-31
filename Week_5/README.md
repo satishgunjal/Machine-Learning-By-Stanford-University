@@ -6,3 +6,6 @@
 ## Cost Function and Backpropagation
 ### Cost Function-In Video Question
 <img src="images/Cost Function-In Video Question.png" width="500">
+
+### Backpropagation Algorithm-In Video Question
+<img src="images/Backpropagation Algorithm-In Video Question.png" width="500">
