@@ -32,3 +32,8 @@ For detailed explaination please refer [Coursera Discussion Thread](https://www.
 ### Neural Networks Learning - Graded Quiz
 <img src="images/Neural Networks_ Learning - Graded Quiz.png" width="700">
 
+## [Programming Assignment: Neural Network Learning](machine-learning-ex4)
+- I have solved(with lots of reference from others) all the questions mentioned in 'ex4.pdf'. 
+- Please follow the 'ex4.pdf' it will guide you though all the steps. 
+- In all the '.m' files I have added few extra comments for better understanding.
+
