@@ -30,5 +30,5 @@ For detailed explaination please refer [Coursera Discussion Thread](https://www.
 
 ## Review
 ### Neural Networks Learning - Graded Quiz
-<img src="images/Neural Networks_ Learning - Graded Quiz.png" width="500">
+<img src="images/Neural Networks_ Learning - Graded Quiz.png" width="700">
 
