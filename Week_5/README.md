@@ -28,3 +28,7 @@ For detailed explaination please refer [Coursera Discussion Thread](https://www.
 ### Putting It Together-In Video Question
 <img src="images/Putting It Together-In Video Question.png" width="500">
 
+## Review
+### Neural Networks Learning - Graded Quiz
+<img src="images/Neural Networks_ Learning - Graded Quiz.png" width="500">
+
