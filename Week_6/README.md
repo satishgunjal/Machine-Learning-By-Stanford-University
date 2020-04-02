@@ -12,3 +12,6 @@
 
 ### Evaluating a Hypothesis-In Video Question
 <img src="images/Evaluating a Hypothesis-In Video Question.png" width="500">
+
+### Model Selection and Train-Validation-Test Sets-In Video Question
+<img src="images/Model Selection and Train-Validation-Test Sets-In Video Question.png" width="500">
