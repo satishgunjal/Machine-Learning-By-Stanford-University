@@ -9,5 +9,6 @@
 ## Evaluating a Learning Algorithm
 ### Deciding What to Try Next-In Video Question
 <img src="images/Deciding What to Try Next-In Video Question.png" width="500">
+
 ### Evaluating a Hypothesis-In Video Question
 <img src="images/Evaluating a Hypothesis-In Video Question.png" width="500">
