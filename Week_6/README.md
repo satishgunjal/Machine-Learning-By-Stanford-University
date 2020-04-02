@@ -19,3 +19,6 @@
 ## Bias vs. Variance
 ### Diagnosing Bias vs. Variance-In Video Question
 <img src="images/Diagnosing Bias vs. Variance-In Video Question.png" width="500">
+
+### Regularization and Bias_Variance-In Video Question
+<img src="images/Regularization and Bias_Variance-In Video Question.png" width="500">
