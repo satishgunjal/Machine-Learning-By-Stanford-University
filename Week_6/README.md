@@ -22,3 +22,6 @@
 
 ### Regularization and Bias_Variance-In Video Question
 <img src="images/Regularization and Bias_Variance-In Video Question.png" width="500">
+
+### Learning Curves-In Video Question
+<img src="images/Learning Curves-In Video Question.png" width="500">
