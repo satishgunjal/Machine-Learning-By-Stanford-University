@@ -25,3 +25,6 @@
 
 ### Learning Curves-In Video Question
 <img src="images/Learning Curves-In Video Question.png" width="500">
+
+### Deciding What to Do Next Revisited-In Video Question
+<img src="images/Deciding What to Do Next Revisited-In Video Question.png" width="500">
