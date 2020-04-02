@@ -15,3 +15,7 @@
 
 ### Model Selection and Train-Validation-Test Sets-In Video Question
 <img src="images/Model Selection and Train-Validation-Test Sets-In Video Question.png" width="500">
+
+## Bias vs. Variance
+### Diagnosing Bias vs. Variance-In Video Question
+<img src="images/Diagnosing Bias vs. Variance-In Video Question.png" width="500">
