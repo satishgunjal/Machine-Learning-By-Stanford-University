@@ -28,3 +28,7 @@
 
 ### Deciding What to Do Next Revisited-In Video Question
 <img src="images/Deciding What to Do Next Revisited-In Video Question.png" width="500">
+
+## Review
+### Advice for Applying Machine Learning-Graded Quiz
+<img src="images/Advice for Applying Machine Learning-Graded Quiz.png" width="700">
