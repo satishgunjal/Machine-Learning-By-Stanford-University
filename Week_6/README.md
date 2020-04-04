@@ -45,3 +45,6 @@
 ### Error Analysis-In Video Question
 <img src="images/Error Analysis-In Video Question.png" width="700">
 
+### Error Metrics for Skewed Classes-In Video Question
+<img src="images/Error Metrics for Skewed Classes-In Video Question.png" width="700">
+
