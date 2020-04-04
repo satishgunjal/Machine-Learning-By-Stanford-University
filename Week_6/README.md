@@ -38,3 +38,7 @@
 - Please follow the 'ex5.pdf' it will guide you though all the steps. 
 - In all the '.m' files I have added few extra comments for better understanding.
 
+## Building a Spam Classifier
+### Prioritizing What to Work On-In Video Question
+<img src="images/Prioritizing What to Work On-In Video Question.png" width="700">
+
