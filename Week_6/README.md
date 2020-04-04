@@ -32,3 +32,9 @@
 ## Review
 ### Advice for Applying Machine Learning-Graded Quiz
 <img src="images/Advice for Applying Machine Learning-Graded Quiz.png" width="700">
+
+## [Programming Assignment: Regularized Linear Regression and Bias/Variance](machine-learning-ex5)
+- I have solved all the questions mentioned in 'ex5.pdf'. 
+- Please follow the 'ex5.pdf' it will guide you though all the steps. 
+- In all the '.m' files I have added few extra comments for better understanding.
+
