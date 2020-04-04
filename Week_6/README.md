@@ -45,6 +45,10 @@
 ### Error Analysis-In Video Question
 <img src="images/Error Analysis-In Video Question.png" width="700">
 
+## Handling Skewed Data
 ### Error Metrics for Skewed Classes-In Video Question
 <img src="images/Error Metrics for Skewed Classes-In Video Question.png" width="700">
+
+### Trading Off Precision and Recall-In Video Question
+<img src="images/Trading Off Precision and Recall-In Video Question.png" width="700">
 
