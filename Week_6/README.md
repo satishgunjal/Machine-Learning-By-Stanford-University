@@ -52,3 +52,7 @@
 ### Trading Off Precision and Recall-In Video Question
 <img src="images/Trading Off Precision and Recall-In Video Question.png" width="700">
 
+## Using Large Data Sets
+### Data For Machine Learning-In Video Question
+<img src="images/Data For Machine Learning-In Video Question.png" width="700">
+
