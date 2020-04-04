@@ -56,3 +56,7 @@
 ### Data For Machine Learning-In Video Question
 <img src="images/Data For Machine Learning-In Video Question.png" width="700">
 
+## Review
+### Machine Learning System Design-Graded Quiz
+<img src="images/Machine Learning System Design-Graded Quiz.png" width="700">
+
