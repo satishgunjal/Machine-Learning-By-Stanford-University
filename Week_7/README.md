@@ -17,5 +17,8 @@
 ### Kernels I-ivq
 <img src="images/Kernels I-ivq.png" width="500">
 
+### Kernels II-ivq
+<img src="images/Kernels II-ivq.png" width="500">
+
 ## SVMs in Practice
 ## Review
