@@ -8,7 +8,10 @@
 <img src="images/Optimization Objective-ivq.png" width="500">
 
 ### Large Margin Intuition-ivq
-<img src="images/Large Margin Intuition-ivq.png" width="500">
+<img src="images/Large Margin Intuition- ivq.png" width="500">
+
+### Mathematics Behind Large Margin Classification-ivq
+<img src="images/Mathematics Behind Large Margin Classification-ivq.png" width="500">
 
 ## Kernels
 ## SVMs in Practice
