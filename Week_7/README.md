@@ -4,8 +4,8 @@
 
 
 ## Large Margin Classification
-### Deciding What to Try Next-In Video Question
-<img src="images/Deciding What to Try Next-In Video Question.png" width="500">
+### Optimization Objective-ivq
+<img src="images/Optimization Objective-ivq.png" width="500">
 
 ## Kernels
 ## SVMs in Practice
