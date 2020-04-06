@@ -21,4 +21,6 @@
 <img src="images/Kernels II-ivq.png" width="500">
 
 ## SVMs in Practice
+### Using An SVM-ivq
+<img src="images/Using An SVM-ivq.png" width="500">
 ## Review
