@@ -7,6 +7,9 @@
 ### Optimization Objective-ivq
 <img src="images/Optimization Objective-ivq.png" width="500">
 
+### Large Margin Intuition-ivq
+<img src="images/Large Margin Intuition-ivq.png" width="500">
+
 ## Kernels
 ## SVMs in Practice
 ## Review
