@@ -26,4 +26,4 @@
 
 ## Review  
 ### Support Vector Machines-Graded Quiz
-<img src="images/Support Vector Machines-Graded Quiz.png" width="1000">
+<img src="images/Support Vector Machines- Graded Quiz.png" width="1000">
