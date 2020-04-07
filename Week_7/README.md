@@ -23,4 +23,7 @@
 ## SVMs in Practice
 ### Using An SVM-ivq
 <img src="images/Using An SVM-ivq.png" width="500">
-## Review
+
+## Review  
+### Support Vector Machines-Graded Quiz
+<img src="images/Support Vector Machines-Graded Quiz.png" width="1000">
