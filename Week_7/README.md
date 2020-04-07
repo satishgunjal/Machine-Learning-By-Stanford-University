@@ -27,3 +27,9 @@
 ## Review  
 ### Support Vector Machines-Graded Quiz
 <img src="images/Support Vector Machines- Graded Quiz.png" width="1000">
+
+## [Programming Assignment: Support Vector Machines](machine-learning-ex6)
+- I have solved all the questions mentioned in 'ex6.pdf'. 
+- Please follow the 'ex6.pdf' it will guide you though all the steps. 
+- In all the '.m' files I have added few extra comments for better understanding.
+- I have not completed the 'Optional (ungraded) exercise: Build your own dataset'
