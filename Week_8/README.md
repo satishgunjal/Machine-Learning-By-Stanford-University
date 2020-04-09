@@ -52,3 +52,8 @@
 ## Dimensionality Reduction-Review
 ### Principal Component Analysis-Graded Quiz
 <img src="images/Principal Component Analysis-Graded Quiz.png" width="500">
+
+## [Programming Assignment: K-Means Clustering and PCA](machine-learning-ex7)
+- I have solved all the questions mentioned in 'ex7.pdf'. 
+- Please follow the 'ex7.pdf' it will guide you though all the steps. 
+- In all the '.m' files I have added few extra comments for better understanding.
