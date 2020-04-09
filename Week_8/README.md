@@ -36,5 +36,19 @@
 ### Principal Component Analysis Problem Formulation-ivq
 <img src="images/Principal Component Analysis Problem Formulation-ivq.png" width="500">
 
+### Principal Component Analysis Algorithm-ivq
+<img src="images/Principal Component Analysis Algorithm-ivq.png" width="500">
+
 ## Applying PCA
+### Reconstruction from Compressed Representation-ivq
+<img src="images/Reconstruction from Compressed Representation-ivq.png" width="500">
+
+### Choosing the Number of Principal Components-ivq
+<img src="images/Choosing the Number of Principal Components-ivq.png" width="500">
+
+### Advice for Applying PCA-ivq
+<img src="images/Advice for Applying PCA-ivq.png" width="500">
+
 ## Dimensionality Reduction-Review
+### Principal Component Analysis-Graded Quiz
+<img src="images/Principal Component Analysis-Graded Quiz.png" width="500">
