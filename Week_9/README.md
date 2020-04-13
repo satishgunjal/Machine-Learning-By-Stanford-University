@@ -1,4 +1,4 @@
-# Week 8 - Unsupervised Learning
+# Week 9 - Anomaly Detection & Recommender Systems
 - This week, we will be covering anomaly detection which is widely used in fraud detection (e.g. ‘has this credit card been stolen?’)
 - Given a large number of data points, we may sometimes want to figure out which ones vary significantly from the average. For example, in manufacturing, we may want to detect defects or anomalies. 
 - We show how a dataset can be modeled using a Gaussian distribution, and how the model can be used for anomaly detection.
