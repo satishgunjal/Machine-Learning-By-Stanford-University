@@ -31,9 +31,8 @@ I am trying to answer and explain every quiz question asked in Machine Learning 
 
 ## [Weel_4: Neural Networks](Week_4)
 
-## [Certificate](https://coursera.org/share/b5bea96bef71f14098675959a275389f)
-
-<img src="Certificate- Coursera 3YQLFAXP5LL7.pdf" width="500">
+## Certificate
+<img src="Certificate- Coursera 3YQLFAXP5LL7.png" width="700">
 
 
 
